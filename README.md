@@ -18,9 +18,10 @@ This project, when successfully compiled, will aleviate that concern for this co
 
 ### Part 1: Planning
 
-Step 1: Determine how our code will function in an overarching 
-Divide the tasks to complete the review project in its entirety.
-- Alex Estrada is tasked with providing the initial algorithm and psuedo code for the project.
+Step 1: Determine how our code will function in an overarching manner
+- We decided that we would ask for user inputs to get a live assessment of the student's current grade.
+
+Step 2: Create a flow chart 
 
 ### Pseudo Code
 
